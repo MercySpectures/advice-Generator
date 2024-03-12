@@ -1,4 +1,4 @@
-**Advice Generator README**
+# Advice Generator
 
 Welcome to the Advice Generator project! This application allows users to receive tailored advice based on a single word input. Here's a brief guide to get you started:
 
@@ -39,6 +39,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the developers and contributors who have made this project possible.
 
 ### Contact:
-For any inquiries or feedback, please contact [huntethan144@gmail.com].
+For any inquiries or feedback, please contact huntethan144@gmail.com.
 
 Happy generating advice! 🚀
